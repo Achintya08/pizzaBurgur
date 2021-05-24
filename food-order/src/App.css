@@ -1,0 +1,36 @@
+
+
+.home-item{
+  height: 200px;
+  width: 200px;
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.8);
+  border-radius: 10px;
+  margin-left: 20px;
+
+}
+
+.main-item{
+  margin-top: 20px;
+}
+
+.image-div{
+  height: 140px;
+  width: 140px;
+}
+
+.row{
+  height: fit-content;
+}
+
+.Item-name{
+  margin-left: 35%;
+}
+
+.heads{
+ 
+color: white !important;
+text-decoration: none !important;
+
+
+
+}
